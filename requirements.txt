@@ -1,4 +1,6 @@
 streamlit
 tensorflow
+pymongo
 pillow
 numpy
+
